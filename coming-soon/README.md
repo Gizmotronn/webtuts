@@ -1,0 +1,1 @@
+Here, we have a simple Coming Soon template. This is the starter point for the tutorial/course, which will then lead into our other projects. For each project, start here unless instructed to do elsewhere at the start of a playlist.
